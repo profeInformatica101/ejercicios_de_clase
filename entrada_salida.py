@@ -1,5 +1,6 @@
-# Salida
+# --> Salida
 print("Dime tu nombre")
-# Entrada
+# <-- Entrada
 nombre = input()
+# --> Salida
 print("Hola ", nombre)
